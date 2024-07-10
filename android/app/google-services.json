@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "805327488583",
+    "project_id": "i-hate-dating",
+    "storage_bucket": "i-hate-dating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805327488583:android:a2e89fbd6e709c1ffd1362",
+        "android_client_info": {
+          "package_name": "com.iamgroot.sample_project_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805327488583-c3up2jtstufmv1c1pnpgg5kjjc2gu26e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iamgroot.sample_project_1",
+            "certificate_hash": "678d7f5a33b7cb514eeb8c70331d3a61e35a9a46"
+          }
+        },
+        {
+          "client_id": "805327488583-q64097l8qcfq6pkstnfahema8shgu1nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIz6x2qz7g8ERqnqkJxdXUjD5a0y1Ocxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805327488583-q64097l8qcfq6pkstnfahema8shgu1nd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "805327488583-304lgum6jgvufsiaubput0gopbhh796l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iamgroot.sampleProject1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
